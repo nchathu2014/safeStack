@@ -1,6 +1,6 @@
 SafeStack is to provide you a stack as a data structure where you can safely use in your project
 
-coming has two versions.
+Coming as two versions.
 
 1.nodeVersion - to use in any javascript related framework. 
 
