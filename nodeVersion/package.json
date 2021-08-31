@@ -1,0 +1,10 @@
+{
+  "name": "safestack",
+  "version": "1.0.0",
+  "description": "this is a data structure for a stack where you can use safely in any kind of your scenarios",
+  "scripts": {
+    "start": "node consumer.js"
+  },
+  "author": "Thinuwan Wickramaarachchi",
+  "type": "module"
+}
